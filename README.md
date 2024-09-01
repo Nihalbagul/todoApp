@@ -77,19 +77,7 @@ Folder Structure
 
 ## Project Structure
 
-todo-app/
-├── android/
-├── ios/
-├── lib/
-│   ├── main.dart          # Entry point of the application
-│   ├── model/             # Contains model classes (e.g., TodoModel)
-│   ├── providers/         # Contains provider classes for state management
-│   ├── screens/           # Contains the main screens of the app
-│   ├── widgets/           # Contains reusable widgets
-│   └── utils/             # Contains utility classes and functions
-├── test/                  # Contains unit and widget tests
-└── pubspec.yaml           # Project configuration file
-
+todo-app/ ├── android/ ├── ios/ ├── lib/ │ ├── main.dart # Entry point of the application │ ├── model/ # Contains model classes (e.g., TodoModel) │ ├── providers/ # Contains provider classes for state management │ ├── screens/ # Contains the main screens of the app │ ├── widgets/ # Contains reusable widgets │ └── utils/ # Contains utility classes and functions ├── test/ # Contains unit and widget tests └── pubspec.yaml # Project configuration file
 Dependencies
 
 The app uses the following major dependencies:
