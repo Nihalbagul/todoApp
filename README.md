@@ -77,8 +77,8 @@ Folder Structure
 
 ## Project Structure
 
-
-To ensure the structure appears correctly in your GitHub README, replace the markdown code block with backticks (`) at the beginning and end, like this:
+```markdown
+## Project Structure
 
 \```
 habit-tracker-app/
@@ -94,8 +94,6 @@ habit-tracker-app/
 ├── test/                  # Contains unit and widget tests
 └── pubspec.yaml           # Project configuration file
 \```
-
-Remove the backslashes before the backticks to make it work in your README. This approach ensures the directory tree displays correctly on GitHub.
 
 
 The app uses the following major dependencies:
