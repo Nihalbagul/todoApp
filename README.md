@@ -56,8 +56,8 @@ To get started with this project, clone the repository and follow the installati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/habit-tracker-app.git
-   cd habit-tracker-app
+   [git clone https://github.com/yourusername/habit-tracker-app.git](https://github.com/Nihalbagul/todoApp.git)
+   cd todoApp
 2 Install dependencies:flutter pub get
 3 Run the app:flutter run
 Usage
@@ -75,6 +75,8 @@ Searching for a Task
 Use the search bar to filter tasks by title or keyword.
 Folder Structure
 
+plaintext
+Copy code
 habit-tracker-app/
 ├── android/
 ├── ios/
@@ -87,6 +89,7 @@ habit-tracker-app/
 │   └── utils/             # Contains utility classes and functions
 ├── test/                  # Contains unit and widget tests
 └── pubspec.yaml           # Project configuration file
+
 Dependencies
 
 The app uses the following major dependencies:
