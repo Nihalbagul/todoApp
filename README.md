@@ -56,7 +56,7 @@ To get started with this project, clone the repository and follow the installati
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/yourusername/habit-tracker-app.git](https://github.com/Nihalbagul/todoApp.git)
+   [git clone https://github.com/Nihalbagul/todoApp.git]
    cd todoApp
 2 Install dependencies:flutter pub get
 3 Run the app:flutter run
