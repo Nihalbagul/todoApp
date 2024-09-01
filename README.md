@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# Habit Tracker App
+# TODO App
 
 A Flutter-based Habit Tracker app that allows users to create, manage, and prioritize tasks. The app supports setting reminders, push notifications, sorting tasks, searching for tasks, and data persistence across app restarts.
 
