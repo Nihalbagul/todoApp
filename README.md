@@ -75,9 +75,9 @@ Searching for a Task
 Use the search bar to filter tasks by title or keyword.
 Folder Structure
 
-plaintext
-Copy code
-habit-tracker-app/
+## Project Structure
+
+todo-app/
 ├── android/
 ├── ios/
 ├── lib/
