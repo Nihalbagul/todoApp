@@ -1,6 +1,6 @@
 # TODO App
 
-A Flutter-based Habit Tracker app that allows users to create, manage, and prioritize tasks. The app supports setting reminders, push notifications, sorting tasks, searching for tasks, and data persistence across app restarts.
+A Flutter-based todo app that allows users to create, manage, and prioritize tasks. The app supports setting reminders, push notifications, sorting tasks, searching for tasks, and data persistence across app restarts.
 
 ## Table of Contents
 
@@ -64,7 +64,7 @@ Folder Structure
 ## Project Structure
 
 \```
-habit-tracker-app/
+todoapp/
 ├── android/
 ├── ios/
 ├── lib/
